@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(25, 27, 24);
+    height: 100%;
+    width: 100%;
+}
+.center{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+margin-left: 450px;
+box-shadow: 15px 15px white;
+}
+#banner{
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#clock{
+    background-color: yellowgreen;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+#clock:hover{
+color: red;
+background-color: yellow;
+font-weight:bold;
+
+}
